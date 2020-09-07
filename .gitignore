@@ -1,0 +1,10 @@
+# igrored folder
+.idea/
+cmake-build-debug/
+trash/
+
+# ignore files
+
+
+# ignore my own notes
+TODO LIST.txt
